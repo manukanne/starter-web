@@ -2,8 +2,11 @@
 
 This repository is for showing how Git and GitHub work
 
-##Introduction
+## Introduction
 My introduction
+
+## Deployment
+Some deployment section
 
 ## Purpose
 

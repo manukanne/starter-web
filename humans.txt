@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Manuel Kanetscheider    manuel.kanetscheider@hotmail.com
 
 # THANKS
 

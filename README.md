@@ -18,3 +18,6 @@ Some content
 
 ## Copyright
 By Manu
+
+## How to contribute
+Contribute...

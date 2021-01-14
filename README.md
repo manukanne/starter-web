@@ -12,3 +12,6 @@ Even more nonsense about deployment
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Sample
+Some content

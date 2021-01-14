@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 
 ## Sample
 Some content
+
+## Copyright
+By Manu

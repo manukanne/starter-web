@@ -17,7 +17,7 @@ Sample website with plenty of files for demos
 Some content
 
 ## Copyright
-By Manu
+By Manu - All rights reserved
 
 ## How to contribute
 Contribute...

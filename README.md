@@ -23,4 +23,4 @@ By Manu
 Contribute...
 
 ## Sample 2
-Adding a new line for testing
+Adding a new line for testing. More changes from feature branch

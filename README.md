@@ -21,3 +21,6 @@ By Manu
 
 ## How to contribute
 Contribute...
+
+## Sample 2
+Adding a new line for testing
